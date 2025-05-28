@@ -17,7 +17,7 @@ Klimate is a real-time weather forecast application built with modern web techno
 
 ## 🌐 Live Demo
 
-[🔗 Demo Link](https://your-demo-link.com) 
+[🔗 Demo Link](https://klimate-samriddho.netlify.app/) 
 
 ---
 
