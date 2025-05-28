@@ -2,8 +2,7 @@
 
 Klimate is a real-time weather forecast application built with modern web technologies. It provides current weather conditions, a 5-day forecast, and hourly temperature trends using the OpenWeatherMap API.
 
-![App Screenshot](./path-to-your-screenshot.jpeg) 
-![App Screenshot](./path-to-your-second-screenshot.png) 
+![App Screenshot - Dark Mode](./public/klimate_dark.jpeg)
 
 ## 🚀 Features
 
