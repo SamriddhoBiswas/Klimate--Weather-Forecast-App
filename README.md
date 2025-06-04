@@ -11,7 +11,7 @@ Klimate is a real-time weather forecast application built with modern web techno
 - 📈 Hourly temperature chart using Recharts
 - 📅 5-day forecast with detailed metrics
 - 🌗 Sunrise and sunset times
-- 🌓 Light/Dark mode toggle for user preference
+- 🌓 Light/Dark mode toggle for user preference.
 
 ---
 
