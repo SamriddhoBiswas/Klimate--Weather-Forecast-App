@@ -42,8 +42,8 @@ Klimate is a real-time weather forecast application built with modern web techno
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/klimate.git
-cd klimate
+git clone https://github.com/SamriddhoBiswas/Klimate--Weather-Forecast-App.git
+cd Klimate--Weather-Forecast-App
 ```
 
 ### 2. Install dependencies
