@@ -2,8 +2,7 @@
 
 Klimate is a real-time weather forecast application built with modern web technologies. It provides current weather conditions, a 5-day forecast, and hourly temperature trends using the OpenWeatherMap API.
 
-![App Screenshot](./path-to-your-screenshot.jpeg) 
-![App Screenshot](./path-to-your-second-screenshot.png) 
+![App Screenshot - Dark Mode](./public/klimate_dark.jpeg)
 
 ## 🚀 Features
 
@@ -18,7 +17,7 @@ Klimate is a real-time weather forecast application built with modern web techno
 
 ## 🌐 Live Demo
 
-[🔗 Demo Link](https://your-demo-link.com) 
+[🔗 Demo Link](https://klimate-samriddho.netlify.app/) 
 
 ---
 
@@ -43,8 +42,8 @@ Klimate is a real-time weather forecast application built with modern web techno
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/klimate.git
-cd klimate
+git clone https://github.com/SamriddhoBiswas/Klimate--Weather-Forecast-App.git
+cd Klimate--Weather-Forecast-App
 ```
 
 ### 2. Install dependencies
